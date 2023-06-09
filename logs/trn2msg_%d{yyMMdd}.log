@@ -1,0 +1,32 @@
+00:44:17.884 - Starting TaskApplication using Java 17.0.2 with PID 22780 (C:\Users\Jelena\Desktop\task\build\classes\java\main started by Jelena in C:\Users\Jelena\Desktop\task)
+00:44:17.887 - No active profile set, falling back to 1 default profile: "default"
+00:44:18.570 - Tomcat initialized with port(s): 8080 (http)
+00:44:18.578 - Starting service [Tomcat]
+00:44:18.578 - Starting Servlet engine: [Apache Tomcat/10.1.8]
+00:44:18.652 - Initializing Spring embedded WebApplicationContext
+00:44:18.652 - Root WebApplicationContext: initialization completed in 727 ms
+00:44:18.900 - Tomcat started on port(s): 8080 (http) with context path ''
+00:44:18.906 - Started TaskApplication in 1.385 seconds (process running for 1.804)
+00:44:33.924 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+00:44:33.925 - Initializing Servlet 'dispatcherServlet'
+00:44:33.926 - Completed initialization in 1 ms
+00:44:33.950 - Start of file conversion
+00:44:33.950 - End of file conversion
+00:44:33.954 - Notification has created
+00:44:33.993 - Notification has written to file
+08:05:57.481 - Starting TaskApplication using Java 17.0.2 with PID 9384 (C:\Users\Jelena\Desktop\task\build\classes\java\main started by Jelena in C:\Users\Jelena\Desktop\task)
+08:05:57.485 - No active profile set, falling back to 1 default profile: "default"
+08:05:58.337 - Tomcat initialized with port(s): 8080 (http)
+08:05:58.347 - Starting service [Tomcat]
+08:05:58.348 - Starting Servlet engine: [Apache Tomcat/10.1.8]
+08:05:58.434 - Initializing Spring embedded WebApplicationContext
+08:05:58.434 - Root WebApplicationContext: initialization completed in 897 ms
+08:05:58.692 - Tomcat started on port(s): 8080 (http) with context path ''
+08:05:58.698 - Started TaskApplication in 1.665 seconds (process running for 2.119)
+08:06:07.177 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+08:06:07.178 - Initializing Servlet 'dispatcherServlet'
+08:06:07.178 - Completed initialization in 0 ms
+08:06:07.198 - Start of file conversion
+08:06:07.199 - End of file conversion
+08:06:07.205 - Notification has created
+08:06:07.243 - Notification has written to file
